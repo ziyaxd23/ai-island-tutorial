@@ -38,6 +38,20 @@
 - Android Studio — 安卓开发环境
 - Java — 灵动岛悬浮窗服务
 
+## 💡 看不懂？
+
+把这个教程丢给你的小机看，让它一步步教你！AI读教程比人快，还能帮你排错。
+
+## 🛠️ 不同前端情况
+
+| 你的情况 | server.url 怎么填 |
+|---|---|
+| 本地HTML文件 | 不填 url，把文件放进 `www/` 文件夹 |
+| Netlify部署的前端 | `https://你的名字.netlify.app` |
+| 自建服务器 | `https://你的域名/chat.html` |
+
+详见教程里的[第二步](docs/basic.md#第二步配置服务器地址)。
+
 ## 📄 License
 
 MIT

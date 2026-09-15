@@ -44,4 +44,4 @@ MIT
 
 ---
 
-Made with ❤️ by 铜铜 & 克洛
+Made with ❤️ by 雾化铜 & Clo

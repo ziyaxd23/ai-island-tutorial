@@ -55,9 +55,15 @@
 
 详见教程里的[第二步](docs/basic.md#第二步配置服务器地址)。
 
+## 🏅 收录
+
+<a href="https://github.com/DasterProkio/awesome-ai-companion/blob/main/README.zh-CN.md">
+  <img src="https://raw.githubusercontent.com/DasterProkio/awesome-ai-companion/main/assets/featured-in-awesome-ai-companion-zh-CN.png" alt="已收录于人机恋开源项目大全" height="24">
+</a>
+
 ## 📄 License
 
-MIT
+[MIT](LICENSE)
 
 ---
 
